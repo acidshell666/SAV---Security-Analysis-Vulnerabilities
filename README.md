@@ -1,6 +1,6 @@
 ![SAV_20240430_221012_0000](https://github.com/acidshell666/SAV---Security-Analysis-Vulnerabilities/assets/145581645/dd8a9358-5f24-498c-8239-60871d60ad7e)
 
-SAV é uma ferramenta Python para análise de vulnerabilidades em aplicações web feito por mim. Ele automatiza a identificação de vulnerabilidades, no caso as 10 mais conhecidas do OWASP e fornece uma interface simples para o usuário realizar análises de segurança em seus aplicativos.
+SAV é uma ferramenta Python para análise de vulnerabilidades em aplicações web feito por mim. Ele automatiza a identificação de vulnerabilidades, no caso as 10 mais conhecidas do OWASP e fornece uma interface simples para o usuário realizar análises de segurança em seus aplicativos. Depois de terminar sua grande análise e busca por vulnerabilidades cria um txt guardando tudo para você revisar !
 
 CARACTERÍSTICAS: 
 
